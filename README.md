@@ -13,11 +13,11 @@ The Semantic Book Recommender is a machine learning-based application that provi
 - **Interactive Interface**: Provides an interactive interface using Gradio for easy user interaction.
 
 ## Tools
-- **LangChain
-- **SentenceTransformers
-- **Transformers (Bart for labeling, Distil Roberta for sentiment analysis)
-- **Chroma (OpenAI embeddings)
-- **Gradio
+- LangChain
+- SentenceTransformers
+- Transformers (Bart for labeling, Distil Roberta for sentiment analysis)
+- Chroma (OpenAI embeddings)
+- Gradio
 
 
 ## Installation
