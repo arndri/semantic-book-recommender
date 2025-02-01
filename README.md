@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/d8b6616f-93c7-4477-80b3-3bbfb0dfe635)
 ![image](https://github.com/user-attachments/assets/c3a80326-9de1-4f67-83b9-4f365bd0ec0b)
 # Semantic Book Recommender
 
