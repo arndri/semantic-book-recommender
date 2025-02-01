@@ -1,3 +1,4 @@
 .env
 /env
 /bart-large-mnli
+/emotion-english-distilroberta-base
